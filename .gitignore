@@ -1,0 +1,6 @@
+#Fichier de log
+debug.log
+#Dossier de cache
+cache/
+#Fichier .env
+.env
